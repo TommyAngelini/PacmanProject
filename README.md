@@ -9,6 +9,7 @@ This project was developed to apply the concepts and frameworks I've been learni
 - Navigating the world outliner, world settings, and content browser for quick editing of levels
 - Using C++ to set up actor classes and program user input into pawn movement 
 - Connecting variables and data members to Blueprints through C++ using "UPROPERTY"
+- Working with meshes and setting up collision mechanics between actors
 - Creating custom Gamemodes for the main menu and Pacman level 
 - Creating functions to call in the Event Graph
 - Creating custom events using "publish-subscribe" in C++/blueprints to handle changes such as pellets being consumed by Pacman
